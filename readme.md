@@ -1,7 +1,7 @@
 ## NNLS——非负最小二乘法
 algorithm introduction can be seen on  https://en.wikipedia.org/wiki/Non-negative_least_squares
 ### test nnls.py
-"""
+```
 np.random.seed(42)
 
 n_samples, n_features = 200, 50
@@ -49,7 +49,7 @@ ax.set_xlabel("self nnls regression coefficients", fontweight="bold")
 ax.set_ylabel("NNLS regression coefficients", fontweight="bold")
 
 plt.show()
-"""
+```
 
 
 
