@@ -1,6 +1,6 @@
 ## NNLS——非负最小二乘法
 algorithm introduction can be seen on  https://en.wikipedia.org/wiki/Non-negative_least_squares
-### test nnls.py
+## test nnls.py
 ```
 np.random.seed(42)
 # 随机产生 200 X 50 的矩阵
